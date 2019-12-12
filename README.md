@@ -45,3 +45,6 @@ Installation: Launch VS Code Quick Open [Ctrl+P], paste the following command, a
 
 - **[HTML Boilerplate](https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate)**
 ### `ext install sidthesloth.html5-boilerplate`
+
+- **[HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)**
+### `ext install ecmel.vscode-html-css`
