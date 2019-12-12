@@ -90,3 +90,6 @@ Installation: Launch VS Code Quick Open [Ctrl+P], paste the following command, a
 
 - **[Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)**
 ### `ext install 2gua.rainbow-brackets`
+
+- **[Rainbow Tags](https://marketplace.visualstudio.com/items?itemName=voldemortensen.rainbow-tags)**
+### `ext install voldemortensen.rainbow-tags`
