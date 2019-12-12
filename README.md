@@ -99,3 +99,6 @@ Installation: Launch VS Code Quick Open [Ctrl+P], paste the following command, a
 
 - **[ReactJS, Redux & React Router snippets](https://marketplace.visualstudio.com/items?itemName=ugross.vscode-react-snippets)**
 ### `ext install ugross.vscode-react-snippets`
+
+- **[SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)**
+### `ext install cssho.vscode-svgviewer`
