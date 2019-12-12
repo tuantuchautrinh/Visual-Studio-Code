@@ -21,3 +21,6 @@ Installation: Launch VS Code Quick Open [Ctrl+P], paste the following command, a
 
 - **[CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)**
 ### `ext install pranaygp.vscode-css-peek`
+
+- **[Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)**
+### `ext install msjsdiag.debugger-for-chrome`
