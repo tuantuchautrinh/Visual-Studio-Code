@@ -54,3 +54,6 @@ Installation: Launch VS Code Quick Open [Ctrl+P], paste the following command, a
 
 - **[Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)**
 ### `ext install idleberg.icon-fonts`
+
+- **[indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)**
+### `ext install oderwat.indent-rainbow`
