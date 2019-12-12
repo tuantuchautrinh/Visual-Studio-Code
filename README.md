@@ -39,3 +39,6 @@ Installation: Launch VS Code Quick Open [Ctrl+P], paste the following command, a
 
 - **[GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)**
 ### `ext install eamodio.gitlens`
+
+- **[Guides](https://marketplace.visualstudio.com/items?itemName=spywhere.guides)**
+### `ext install spywhere.guides`
