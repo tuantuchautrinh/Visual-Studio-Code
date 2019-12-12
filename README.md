@@ -63,3 +63,6 @@ Installation: Launch VS Code Quick Open [Ctrl+P], paste the following command, a
 
 - **[Laravel Blade Snippets](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade)**
 ### `ext install onecentlin.laravel-blade`
+
+- **[open-in-browser](https://marketplace.visualstudio.com/items?itemName=coderfee.open-html-in-browser)**
+### `ext install coderfee.open-html-in-browser`
