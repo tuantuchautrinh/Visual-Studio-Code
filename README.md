@@ -51,3 +51,6 @@ Installation: Launch VS Code Quick Open [Ctrl+P], paste the following command, a
 
 - **[HTML Snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets)**
 ### `ext install abusaidm.html-snippets`
+
+- **[Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)**
+### `ext install idleberg.icon-fonts`
