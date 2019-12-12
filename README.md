@@ -33,3 +33,6 @@ Installation: Launch VS Code Quick Open [Ctrl+P], paste the following command, a
 
 - **[ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)**
 ### `ext install dbaeumer.vscode-eslint`
+
+- **[Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)**
+### `ext install mhutchie.git-graph`
