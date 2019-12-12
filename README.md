@@ -114,3 +114,6 @@ Installation: Launch VS Code Quick Open [Ctrl+P], paste the following command, a
 
 - **[vscode-faker](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker)**
 ### `ext install deerawan.vscode-faker`
+
+- **[vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)**
+### `ext install vscode-icons-team.vscode-icons`
