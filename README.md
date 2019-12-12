@@ -25,5 +25,8 @@ Installation: Launch VS Code Quick Open [Ctrl+P], paste the following command, a
 - **[Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)**
 ### `ext install msjsdiag.debugger-for-chrome`
 
-- **[Docker(Preview)](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)**
+- **[Docker (Preview)](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)**
 ### `ext install ms-azuretools.vscode-docker`
+
+- **[EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)**
+### `ext install EditorConfig.EditorConfig`
