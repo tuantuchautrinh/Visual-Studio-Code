@@ -87,3 +87,6 @@ Installation: Launch VS Code Quick Open [Ctrl+P], paste the following command, a
 
 - **[Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)**
 ### `ext install WallabyJs.quokka-vscode`
+
+- **[Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)**
+### `ext install 2gua.rainbow-brackets`
