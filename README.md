@@ -18,3 +18,6 @@ Installation: Launch VS Code Quick Open [Ctrl+P], paste the following command, a
 
 - **[Color Info](https://marketplace.visualstudio.com/items?itemName=bierner.color-info)**
 ### `ext install bierner.color-info`
+
+- **[CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)**
+### `ext install pranaygp.vscode-css-peek`
