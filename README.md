@@ -66,3 +66,6 @@ Installation: Launch VS Code Quick Open [Ctrl+P], paste the following command, a
 
 - **[open-in-browser](https://marketplace.visualstudio.com/items?itemName=coderfee.open-html-in-browser)**
 ### `ext install coderfee.open-html-in-browser`
+
+- **[Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)**
+### `ext install christian-kohler.path-intellisense`
