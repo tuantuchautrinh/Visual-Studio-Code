@@ -84,3 +84,6 @@ Installation: Launch VS Code Quick Open [Ctrl+P], paste the following command, a
 
 - **[Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)**
 ### `ext install esbenp.prettier-vscode`
+
+- **[Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)**
+### `ext install WallabyJs.quokka-vscode`
