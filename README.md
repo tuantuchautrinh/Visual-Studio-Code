@@ -75,3 +75,6 @@ Installation: Launch VS Code Quick Open [Ctrl+P], paste the following command, a
 
 - **[PHP Debug](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug)**
 ### `ext install felixfbecker.php-debug`
+
+- **[PHP Extension Pack](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-pack)**
+### `ext install felixfbecker.php-pack`
