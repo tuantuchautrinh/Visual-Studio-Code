@@ -60,3 +60,6 @@ Installation: Launch VS Code Quick Open [Ctrl+P], paste the following command, a
 
 - **[javascript console utils](https://marketplace.visualstudio.com/items?itemName=whtouche.vscode-js-console-utils)**
 ### `ext install whtouche.vscode-js-console-utils`
+
+- **[Laravel Blade Snippets](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade)**
+### `ext install onecentlin.laravel-blade`
