@@ -69,3 +69,6 @@ Installation: Launch VS Code Quick Open [Ctrl+P], paste the following command, a
 
 - **[Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)**
 ### `ext install christian-kohler.path-intellisense`
+
+- **[PHP Constructor](https://marketplace.visualstudio.com/items?itemName=MehediDracula.php-constructor)**
+### `ext install MehediDracula.php-constructor`
