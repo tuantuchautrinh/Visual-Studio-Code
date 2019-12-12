@@ -108,3 +108,6 @@ Installation: Launch VS Code Quick Open [Ctrl+P], paste the following command, a
 
 - **[TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)**
 ### `ext install wayou.vscode-todo-highlight`
+
+- **[Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)**
+### `ext install VisualStudioExptTeam.vscodeintellicode`
