@@ -102,3 +102,6 @@ Installation: Launch VS Code Quick Open [Ctrl+P], paste the following command, a
 
 - **[SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)**
 ### `ext install cssho.vscode-svgviewer`
+
+- **[Task Explorer](https://marketplace.visualstudio.com/items?itemName=spmeesseman.vscode-taskexplorer)**
+### `ext install spmeesseman.vscode-taskexplorer`
