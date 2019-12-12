@@ -15,3 +15,6 @@ Installation: Launch VS Code Quick Open [Ctrl+P], paste the following command, a
 
 - **[Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)**
 ### `ext install streetsidesoftware.code-spell-checker`
+
+- **[Color Info](https://marketplace.visualstudio.com/items?itemName=bierner.color-info)**
+### `ext install bierner.color-info`
