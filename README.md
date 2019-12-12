@@ -105,3 +105,6 @@ Installation: Launch VS Code Quick Open [Ctrl+P], paste the following command, a
 
 - **[Task Explorer](https://marketplace.visualstudio.com/items?itemName=spmeesseman.vscode-taskexplorer)**
 ### `ext install spmeesseman.vscode-taskexplorer`
+
+- **[TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)**
+### `ext install wayou.vscode-todo-highlight`
