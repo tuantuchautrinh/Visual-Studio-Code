@@ -96,3 +96,6 @@ Installation: Launch VS Code Quick Open [Ctrl+P], paste the following command, a
 
 - **[Reactjs code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)**
 ### `ext install xabikos.ReactSnippets`
+
+- **[ReactJS, Redux & React Router snippets](https://marketplace.visualstudio.com/items?itemName=ugross.vscode-react-snippets)**
+### `ext install ugross.vscode-react-snippets`
