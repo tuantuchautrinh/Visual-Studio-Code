@@ -117,3 +117,6 @@ Installation: Launch VS Code Quick Open [Ctrl+P], paste the following command, a
 
 - **[vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)**
 ### `ext install vscode-icons-team.vscode-icons`
+
+- **[XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)**
+### `ext install DotJoshJohnson.xml`
