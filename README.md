@@ -36,3 +36,6 @@ Installation: Launch VS Code Quick Open [Ctrl+P], paste the following command, a
 
 - **[Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)**
 ### `ext install mhutchie.git-graph`
+
+- **[GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)**
+### `ext install eamodio.gitlens`
