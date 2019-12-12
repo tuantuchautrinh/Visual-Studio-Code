@@ -57,3 +57,6 @@ Installation: Launch VS Code Quick Open [Ctrl+P], paste the following command, a
 
 - **[indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)**
 ### `ext install oderwat.indent-rainbow`
+
+- **[javascript console utils](https://marketplace.visualstudio.com/items?itemName=whtouche.vscode-js-console-utils)**
+### `ext install whtouche.vscode-js-console-utils`
