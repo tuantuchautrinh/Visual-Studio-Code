@@ -78,3 +78,6 @@ Installation: Launch VS Code Quick Open [Ctrl+P], paste the following command, a
 
 - **[PHP Extension Pack](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-pack)**
 ### `ext install felixfbecker.php-pack`
+
+- **[PHP IntelliSense](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense)**
+### `ext install felixfbecker.php-intellisense`
