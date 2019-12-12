@@ -111,3 +111,6 @@ Installation: Launch VS Code Quick Open [Ctrl+P], paste the following command, a
 
 - **[Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)**
 ### `ext install VisualStudioExptTeam.vscodeintellicode`
+
+- **[vscode-faker](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker)**
+### `ext install deerawan.vscode-faker`
