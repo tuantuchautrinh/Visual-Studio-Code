@@ -72,3 +72,6 @@ Installation: Launch VS Code Quick Open [Ctrl+P], paste the following command, a
 
 - **[PHP Constructor](https://marketplace.visualstudio.com/items?itemName=MehediDracula.php-constructor)**
 ### `ext install MehediDracula.php-constructor`
+
+- **[PHP Debug](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug)**
+### `ext install felixfbecker.php-debug`
