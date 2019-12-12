@@ -93,3 +93,6 @@ Installation: Launch VS Code Quick Open [Ctrl+P], paste the following command, a
 
 - **[Rainbow Tags](https://marketplace.visualstudio.com/items?itemName=voldemortensen.rainbow-tags)**
 ### `ext install voldemortensen.rainbow-tags`
+
+- **[Reactjs code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)**
+### `ext install xabikos.ReactSnippets`
