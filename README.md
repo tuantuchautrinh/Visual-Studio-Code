@@ -42,3 +42,6 @@ Installation: Launch VS Code Quick Open [Ctrl+P], paste the following command, a
 
 - **[Guides](https://marketplace.visualstudio.com/items?itemName=spywhere.guides)**
 ### `ext install spywhere.guides`
+
+- **[HTML Boilerplate](https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate)**
+### `ext install sidthesloth.html5-boilerplate`
