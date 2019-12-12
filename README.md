@@ -48,3 +48,6 @@ Installation: Launch VS Code Quick Open [Ctrl+P], paste the following command, a
 
 - **[HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)**
 ### `ext install ecmel.vscode-html-css`
+
+- **[HTML Snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets)**
+### `ext install abusaidm.html-snippets`
