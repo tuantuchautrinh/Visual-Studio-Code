@@ -30,3 +30,6 @@ Installation: Launch VS Code Quick Open [Ctrl+P], paste the following command, a
 
 - **[EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)**
 ### `ext install EditorConfig.EditorConfig`
+
+- **[ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)**
+### `ext install dbaeumer.vscode-eslint`
